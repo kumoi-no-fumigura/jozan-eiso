@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jozan-eiso",
  "yomi": "じょうざんえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸前期",
+  "author": "徳川光圀（1628〜1701）",
+  "desc": "水戸藩主徳川光圀の家集。四季の歌のほか、親しい人との別れを惜しむ文などを収めた文章部を付す。"
+ },
  "editions": [
   {
    "pid": "993386",
